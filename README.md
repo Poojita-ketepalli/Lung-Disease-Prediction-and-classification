@@ -1,4 +1,4 @@
-# Lung-Disease-Prediction-and-classification
+# Lung Disease Prediction and Classification
 
 Research Paper : http://jscholaronline.org/full-text/JCSSD/2_105/Detection-and-Classification-of-Lung-Diseases.php
 
